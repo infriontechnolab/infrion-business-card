@@ -1,0 +1,60 @@
+✨ Theme Identity
+Modern • Minimal • Intelligent • Trust-Driven  
+
+A clean, business-focused design language that reflects clarity, innovation, and structured thinking.  
+The style feels premium, future-ready, and built for serious technology solutions.
+
+---
+
+🎨 Core Color Palette
+
+⚪ Pure White
+Hex: #FFFFFF  
+Represents clarity, transparency, and simplicity.  
+Used for clean backgrounds and spacious layouts.
+
+⚫ Deep Black
+Hex: #111111  
+Symbolizes authority, strength, and technical confidence.  
+Used for headlines and strong typography.
+
+🔴 Signature Red (Primary Accent)
+Hex: #E10600  
+Alternative: #D90429  
+Represents energy, action, and bold innovation.  
+Used for buttons, highlights, and key focus elements.
+
+---
+
+🎨 Supporting Colors
+
+🌫 Soft Grey
+Hex: #F4F4F4  
+Used for section backgrounds and subtle depth.
+
+🌑 Dark Grey
+Hex: #2B2B2B  
+Used for subheadings and secondary text.
+
+🔘 Neutral Grey
+Hex: #BDBDBD  
+Used for borders, dividers, and UI balance.
+
+---
+
+🎯 Visual Direction
+
+• Strong, bold typography  
+• Clean sans-serif fonts  
+• Balanced spacing  
+• Minimal clutter  
+• Subtle tech-inspired patterns  
+• Modern, enterprise-grade feel  
+
+---
+
+🚀 Brand Feeling
+
+Clean Thinking.  
+Smart Execution.  
+Reliable Technology.
